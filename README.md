@@ -15,3 +15,5 @@ Enter your email and click continue
 You'll get an email with a link to download the data
 
 Make sure to take a look at the data documentation as well
+
+Note: For reference, I had added the dataset, which is used here for the Boston weather
